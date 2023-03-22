@@ -1,0 +1,7 @@
+C:\Users\wesle\source\repos\MetodoSplit\MetodoSplit\bin\Debug\MetodoSplit.exe.config
+C:\Users\wesle\source\repos\MetodoSplit\MetodoSplit\bin\Debug\MetodoSplit.exe
+C:\Users\wesle\source\repos\MetodoSplit\MetodoSplit\bin\Debug\MetodoSplit.pdb
+C:\Users\wesle\source\repos\MetodoSplit\MetodoSplit\obj\Debug\MetodoSplit.csproj.AssemblyReference.cache
+C:\Users\wesle\source\repos\MetodoSplit\MetodoSplit\obj\Debug\MetodoSplit.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\MetodoSplit\MetodoSplit\obj\Debug\MetodoSplit.exe
+C:\Users\wesle\source\repos\MetodoSplit\MetodoSplit\obj\Debug\MetodoSplit.pdb
